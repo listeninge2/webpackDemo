@@ -1,0 +1,8 @@
+/.nyc_output/
+dist/
+node_modules/
+.cache
+.editorconfig
+.idea
+*.iml
+package-lock.json
