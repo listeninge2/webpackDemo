@@ -1,4 +1,5 @@
 /.nyc_output/
+bk/
 dist/
 node_modules/
 .cache
